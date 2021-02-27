@@ -2,7 +2,7 @@ title: Willy's willy
 email: starwars78910@gmail.com
 description: A Blog by a CSIE student
 author: Willy Huang
-baseurl: ""
+baseurl: "/startbootstrap-clean-blog-jekyll"
 url: "https://startbootstrap.github.io"
 
 # Social Profiles
