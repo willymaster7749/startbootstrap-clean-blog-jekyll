@@ -1,21 +1,22 @@
 ---
 layout: post
-title: "我的未來不是夢"
-subtitle: "你是不是像我在太陽下低頭？流著汗水默默辛苦的工作？"
-date: 2021-01-26 23:45:13 -0400
+title: "The Big Bang"
+subtitle: "史上第一篇 post"
+date: 2021-02-27T10:20:00Z
 background: "/img/posts/01.jpg"
 ---
 
-<p>
-    Never in all their history have men been able truly to conceive of the world
-    as one: a single sphere, a globe, having the qualities of a globe, a round
-    earth in which all the directions eventually meet, in which there is no
-    center because every point, or none, is center — an equal earth which all
-    men occupy as equals. The airman's earth, if free men make it, will be truly
-    round: a globe in practice, not in theory.
-</p>
+哇喔，弄了好久終於用好了。
 
-<p>
+其實我一直想要用一個這樣的 blog，但是因為一些莫名其妙的原因就一直延宕下去。上學期修了網路服務程式設計這個課，教我們怎麼用
+html、css 那些東西架設網站，所以算是有了一些基礎；最近大家又都在汲汲營營的投履歷實習，搞得人心惶惶，我也心頭一驚：欸？我是
+不是該來把這個一直以來的想法實踐一下？  
+先是比較了各個平台，最後還是覺得用 github pages 最實在。之後研究了 jekyll 老半天，碰到了一堆 MAC os 的問題，找了一堆資料
+才順利解決。
+
+希望我會勤奮不懈的更新下去...就看我能不能成為超級無敵部落客了
+
+<!-- <p>
     Science cuts two ways, of course; its products can be used for both good and
     evil. But there's no turning back from science. The early warnings about
     technological dangers also come from science.
@@ -104,4 +105,4 @@ living is all about.</span
 <p>
     Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>.
     Photographs by <a href="https://unsplash.com/">Unsplash</a>.
-</p>
+</p> -->
