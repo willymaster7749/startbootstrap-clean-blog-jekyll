@@ -3,10 +3,8 @@ layout: post
 title: "大二上修課心得"
 subtitle: "最操的一個學期..."
 date: 2021-05-06T10:20:00Z
-background: "/img/posts/bigBang.jpg"
+background: "/img/posts/library.jpeg"
 ---
-
-哇喔，弄了好久終於用好了。
 
 其實我一直想要用一個這樣的 blog，但是因為一些莫名其妙的原因就一直延宕下去。上學期修了網路服務程式設計這個課，教我們怎麼用
 html、css 那些東西架設網站，所以算是有了一些基礎；最近大家又都在汲汲營營的投履歷實習，搞得人心惶惶，我也心頭一驚：欸？我是
