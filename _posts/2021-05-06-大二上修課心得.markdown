@@ -2,105 +2,47 @@
 layout: post
 title: "大二上修課心得"
 subtitle: "最操的一個學期..."
-date: 2021-05-06T10:20:00Z
+date: 2021-05-05T23:20:00Z
 background: "/img/posts/library.jpeg"
 ---
 
-其實我一直想要用一個這樣的 blog，但是因為一些莫名其妙的原因就一直延宕下去。上學期修了網路服務程式設計這個課，教我們怎麼用
-html、css 那些東西架設網站，所以算是有了一些基礎；最近大家又都在汲汲營營的投履歷實習，搞得人心惶惶，我也心頭一驚：欸？我是
-不是該來把這個一直以來的想法實踐一下？  
-先是比較了各個平台，最後還是覺得用 github pages 最實在。之後研究了 jekyll 老半天，碰到了一堆 MAC os 的問題，找了一堆資料
-才順利解決。
+### 學期心得
 
-希望我會勤奮不懈的更新下去...就看我能不能成為超級無敵部落客了
+---
 
-<!-- <p>
-    Science cuts two ways, of course; its products can be used for both good and
-    evil. But there's no turning back from science. The early warnings about
-    technological dangers also come from science.
-</p>
+早在大一的時候，就已經被各種恐嚇這一學期多累多操。雖然早己作好心理準備，但是這一學期的爆肝程度還是不停刷新大家三觀。
+首先是 ADA-演算法設計與分析，簡單來說就是一堂作業是抱大腿、考試是智力測驗的課程；再來是 SP-系統程式設計，是一個要不停重看上課影片、複習老師用嘴巴講從未出現在課文裡的精華，也是考試的重點；又或著是網路服務程式設計，內容實用、但是別想藉由上課學到什麼，極度考驗你的自學能力...。整體而言真的滿操的，幾乎每天都 8、9 點到系館，然後一路學習到晚上 11 點多，甚至常常 1 點多回家。但或許是因為每天都瘋狂埋頭學習，感覺這一學期過得特別快，轉眼就要大二下，然後大學生活就過一半了...。
 
-<p>
-    What was most significant about the lunar voyage was not that man set foot
-    on the Moon but that they set eye on the earth.
-</p>
+這一學期一共修了 19 學分，修習得課程為：
 
-<p>
-    A Chinese tale tells of some men sent to harm a young girl who, upon seeing
-    her beauty, become her protectors rather than her violators. That's how I
-    felt seeing the Earth for the first time. I could not help but love and
-    cherish her.
-</p>
+-   演算法設計與分析
+-   系統程式設計
+-   網路服務程式設計
+-   網球中級(一)
+-   金融科技導論
+-   線性代數
+-   前瞻資訊科技一
 
-<p>
-    For those who have seen the Earth from space, and for the hundreds and
-    perhaps thousands more who will, the experience most certainly changes your
-    perspective. The things that we share in our world are far more valuable
-    than those which divide us.
-</p>
+<br />
 
-<h2 class="section-heading">The Final Frontier</h2>
+### 課程心得
 
-<p>
-    There can be no thought of finishing for ‘aiming for the stars.’ Both
-    figuratively and literally, it is a task to occupy the generations. And no
-    matter how much progress one makes, there is always the thrill of just
-    beginning.
-</p>
+---
 
-<p>
-    There can be no thought of finishing for ‘aiming for the stars.’ Both
-    figuratively and literally, it is a task to occupy the generations. And no
-    matter how much progress one makes, there is always the thrill of just
-    beginning.
-</p>
+##### 演算法設計與分析 - Algorithm Design and Analysis
 
-<blockquote class="blockquote">
-    The dreams of yesterday are the hopes of today and the reality of tomorrow.
-    Science has not yet mastered prophecy. We predict too much for the next year
-    and yet far too little for the next ten.
-</blockquote>
+-   教師：陳縕儂 & 蕭旭君
+-   學分數：3
+-   課程性質：資工大二必修
+-   教材：《Introduction to Algorithms, Third Edition》
+-   成績分佈：學期總成績 71 分 A-、78 分 A、85 分 A+
+-   考試、作業形式：
+    -   20%期中、20%期末、40%作業、10%迷你作業、5%課堂參與、5% Final Challange
+    -   考試是紙筆測驗，考的大略為簡單問答、依據題目設計演算法、通靈
+    -   作業分程式題跟問答題
+-   個人推薦度：🌕🌕🌕🌗🌑
+-   最終等第：A
 
-<p>
-    Spaceflights cannot be stopped. This is not the work of any one man or even
-    a group of men. It is a historical process which mankind is carrying out in
-    accordance with the natural laws of human development.
-</p>
+這門課是大二的必修課，算是大一下學期必修 - 資料結構與演算法 的續集。
 
-<h2 class="section-heading">Reaching for the Stars</h2>
-
-<p>
-    As we got further and further away, it [the Earth] diminished in size.
-    Finally it shrank to the size of a marble, the most beautiful you can
-    imagine. That beautiful, warm, living object looked so fragile, so delicate,
-    that if you touched it with a finger it would crumble and fall apart. Seeing
-    this has to change a man.
-</p>
-
-<img
-    class="img-fluid"
-    src="https://source.unsplash.com/Mn9Fa_wQH-M/800x450"
-    alt="Demo Image"
-/>
-<span class="caption text-muted"
-    >To go places and do things that have never been done before – that’s what
-living is all about.</span
-
->
-
-<p>
-    Space, the final frontier. These are the voyages of the Starship Enterprise.
-    Its five-year mission: to explore strange new worlds, to seek out new life
-    and new civilizations, to boldly go where no man has gone before.
-</p>
-
-<p>
-    As I stand out here in the wonders of the unknown at Hadley, I sort of
-    realize there’s a fundamental truth to our nature, Man must explore, and
-    this is exploration at its greatest.
-</p>
-
-<p>
-    Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>.
-    Photographs by <a href="https://unsplash.com/">Unsplash</a>.
-</p> -->
+<br>

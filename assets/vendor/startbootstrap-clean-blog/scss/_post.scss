@@ -11,7 +11,6 @@
             font-size: 30px;
             margin-top: 30px;
             margin-bottom: 10px;
-            font-family: "Times New Roman", Times, serif;
         }
         > .post-subtitle {
             font-weight: 300;
@@ -19,6 +18,7 @@
             font-family: Georgia, "Times New Roman", Times, serif;
         }
     }
+    // for the size of date line in post page
     > .post-meta {
         font-size: 18px;
         font-style: italic;
@@ -35,6 +35,7 @@
         }
     }
     @media only screen and (min-width: 768px) {
+        // for the size title in post page
         > a {
             > .post-title {
                 font-size: 36px;
