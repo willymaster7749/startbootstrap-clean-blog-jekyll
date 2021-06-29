@@ -4,6 +4,11 @@ title: "The Big Bang"
 subtitle: "史上第一篇 post"
 date: 2021-02-27T10:20:00Z
 background: "/img/posts/bigBang.jpg"
+sitemap:
+    lastmod: 2021-06-29
+    priority: 0.8
+    changefreq: "monthly"
+    exclude: "yes"
 ---
 
 哇喔，弄了好久終於用好了。

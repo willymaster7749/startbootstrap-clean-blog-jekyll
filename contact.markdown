@@ -4,6 +4,11 @@ title: Contact Me
 description: Let's make friends~
 background: "/img/et.jpg"
 form: true
+sitemap:
+    lastmod: 2021-06-29
+    priority: 0.8
+    changefreq: "monthly"
+    exclude: "yes"
 ---
 
 有什麼想法嗎？快告訴我！但要小心，我的 mail server 很有態度，常常罷工。  
