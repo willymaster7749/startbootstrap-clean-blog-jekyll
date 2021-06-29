@@ -4,11 +4,6 @@ title: "大二上修課心得"
 subtitle: "最操的一個學期..."
 date: 2021-05-05T23:20:00Z
 background: "/img/posts/library.jpeg"
-sitemap:
-    lastmod: 2021-06-29
-    priority: 0.8
-    changefreq: "monthly"
-    exclude: "yes"
 ---
 
 ### 學期心得

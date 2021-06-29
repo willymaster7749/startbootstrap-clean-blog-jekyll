@@ -3,11 +3,6 @@ layout: page
 title: About
 description: The man called Willy Huang
 background: "/img/illusion.jpg"
-sitemap:
-    lastmod: 2021-06-29
-    priority: 0.8
-    changefreq: "monthly"
-    exclude: "yes"
 ---
 
 <img
