@@ -6,10 +6,9 @@ background: "/img/et.jpg"
 form: true
 ---
 
-有什麼想法嗎？快告訴我！但要小心，我的 mail server 很有態度，常常罷工。  
-如果這貨真的罷工，用頁底的 email 聯繫我吧～
+有任何想法歡迎吿訴我哦～
 
-<form name="sentMessage" id="contactForm" novalidate>
+<form action="https://formspree.io/f/mbjqknyv" method="POST">
     <div class="control-group">
         <div class="form-group floating-label-form-group controls">
             <label>Name</label>
@@ -18,6 +17,7 @@ form: true
                 class="form-control"
                 placeholder="Name"
                 id="name"
+                name="Name"
                 required
                 data-validation-required-message="Please enter your name."
             />
@@ -32,6 +32,7 @@ form: true
                 class="form-control"
                 placeholder="Email Address"
                 id="email"
+                name="Email"
                 required
                 data-validation-required-message="Please enter your email address."
             />
@@ -46,6 +47,7 @@ form: true
                 class="form-control"
                 placeholder="Phone Number"
                 id="phone"
+                name="Phone"
                 required
                 data-validation-required-message="Please enter your phone number."
             />
@@ -60,6 +62,7 @@ form: true
                 class="form-control"
                 placeholder="Message"
                 id="message"
+                name="Message"
                 required
                 data-validation-required-message="Please enter a message."
             ></textarea>
