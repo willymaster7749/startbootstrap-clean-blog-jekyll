@@ -6,11 +6,11 @@ background: "/img/illusion.jpg"
 ---
 
 <img
-    style="margin: auto; display: block"
+    style="margin: auto; display: block;"
     height="50%"
     width="50%"
     class="img-fluid"
-    src="./img/headshot.JPG"
+    src="./img/me.PNG"
     alt="Demo Image"
 />
 
